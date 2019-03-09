@@ -1,8 +1,8 @@
 # Apicius' recipes
 
-[x] Retrieve recipes.
-[ ] Extract ingedients from texts.
-[ ] Extract action verbs.
-[ ] ...
+* [x] Retrieve recipes.
+* [ ] Extract ingedients from texts.
+* [ ] Extract action verbs.
+* [ ] ...
 
 
