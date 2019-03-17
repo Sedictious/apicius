@@ -1,11 +1,16 @@
-# Food ingredients extracted from Apicius' De re coquinaria (Epimeles, Sarcoptes, Cepuros, Pandecter, Ospreon)
+# Food ingredients extracted from Apicius' De re coquinaria (Epimeles, Sarcoptes, Cepuros, Pandecter, Ospreon, Aeropetes)
 # Note that this doesn't recognize adjectives. Thus, instead of pork liver (iecur porcinum) 
 # only pork (porkus) is included. Herbs (such as puleium/fleabane) are included.
  
 ingredients = [
 "acetum",
+"alica",
+"alium",
+"allium",
 "amygdalum",
+"anas",
 "anethum",
+"anser",
 "apio",
 "apium",
 "apua",
@@ -39,6 +44,7 @@ ingredients = [
 "cochleae",
 "cochleas",
 "coliculus",
+"colocasia",
 "coriandron",
 "coriandrum",
 "costus",
@@ -53,6 +59,7 @@ ingredients = [
 "echinus",
 "eruca",
 "faba",
+"farina",
 "fasciculus",
 "fasianus",
 "femur",
@@ -62,6 +69,7 @@ ingredients = [
 "gallina",
 "garum",
 "gingiber",
+"grus",
 "holus",
 "intibum",
 "intibus",
@@ -100,8 +108,10 @@ ingredients = [
 "ovum",
 "pane",
 "pastinaca",
+"perdix",
 "persica",
 "petroselinum",
+"phoenicopterus",
 "piper",
 "pira",
 "piscis",
@@ -112,6 +122,7 @@ ingredients = [
 "porrus",
 "posca",
 "pruna",
+"psittacus",
 "puleium",
 "pullo",
 "pyrethrum",
@@ -131,6 +142,7 @@ ingredients = [
 "sinapi",
 "sphondylus",
 "spondylus",
+"struthio",
 "thymus",
 "tuber",
 "tus",
