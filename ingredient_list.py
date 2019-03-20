@@ -1,11 +1,14 @@
-# Food ingredients extracted from Apicius' De re coquinaria (Epimeles, Sarcoptes, Cepuros, Pandecter, Ospreon, Aeropetes)
+# Food ingredients extracted from Apicius' De re coquinaria (Epimeles, Sarcoptes, Cepuros, Pandecter, Ospreon, Aeropetes, Polyteles)
 # Note that this doesn't recognize adjectives. Thus, instead of pork liver (iecur porcinum) 
 # only pork (porkus) is included. Herbs (such as puleium/fleabane) are included.
  
 ingredients = [
 "acetum",
+"alec",
 "alica",
 "alium",
+"allec",
+"allex",
 "allium",
 "amygdalum",
 "anas",
@@ -36,6 +39,8 @@ ingredients = [
 "castanea",
 "cauliculus",
 "cepa",
+"cepulla",
+"cepullae",
 "cerasis",
 "cerebellum",
 "cerebrum",
@@ -44,6 +49,7 @@ ingredients = [
 "cochleae",
 "cochleas",
 "coliculus",
+"collaris",
 "colocasia",
 "coriandron",
 "coriandrum",
@@ -59,6 +65,7 @@ ingredients = [
 "echinus",
 "eruca",
 "faba",
+"faeniculum",
 "farina",
 "fasciculus",
 "fasianus",
@@ -66,14 +73,21 @@ ingredients = [
 "feniculum",
 "fenuculum",
 "ficus",
+"foeniculum",
 "gallina",
 "garum",
 "gingiber",
 "grus",
+"halec",
+"hallec",
 "holus",
+"iecor",
+"iecur",
 "intibum",
 "intibus",
 "isicium",
+"jecur",
+"jocur",
 "lac",
 "lacte",
 "lactuca",
@@ -86,6 +100,7 @@ ingredients = [
 "ligusticum",
 "liquamen",
 "lolligo",
+"lumbus",
 "mala",
 "malabathron",
 "malabathrum",
@@ -125,6 +140,7 @@ ingredients = [
 "psittacus",
 "puleium",
 "pullo",
+"pulmo",
 "pyrethrum",
 "radix",
 "raphanus",
@@ -148,5 +164,8 @@ ingredients = [
 "tus",
 "urtica",
 "uva",
-"vinum"
+"venter",
+"vinum",
+"volva",
+"vulva"
 ]
