@@ -16,7 +16,7 @@ Using CLTK's backoff lemmatizer and training your own.
 
 ### POS taggers
 
-CLTK's backoff POS tagger and training NLTK's models7
+CLTK's backoff POS tagger and training NLTK's models
 
 ### NER
 
