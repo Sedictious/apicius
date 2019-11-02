@@ -1,7 +1,27 @@
-# Apicius' recipes
+# Showcasing CLTK with De re Coquinaria
 
-* [x] Retrieve recipes.
-* [ ] Extract ingredients from texts.
-* [ ] Extract action verbs.
-* [ ] Extract structures of recipes.
-* [ ] Guess the taste of recipes.
+A collection of notebooks demonstrating the basic features of CLTK.
+
+### corpus_importer
+
+Importing and accessing corpora from CLTK's repos and parsing online texts
+
+### text_tokenization
+
+Line and word tokenizer
+
+### lemmatization
+
+Using CLTK's backoff lemmatizer and training your own.
+
+### POS taggers
+
+CLTK's backoff POS tagger and training NLTK's models7
+
+### NER
+
+Utilizing the Named Entity Recognition module
+
+### syllabification
+
+A quick look to both language-specific and language-agnostic syllabifiers
