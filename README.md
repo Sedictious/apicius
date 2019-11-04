@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sedictious/apicius/master)
+
 # Showcasing CLTK with De re Coquinaria
 
 A collection of notebooks demonstrating the basic features of CLTK.
