@@ -1,1 +1,3 @@
 cltk
+bs4
+requests
