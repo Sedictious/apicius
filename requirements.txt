@@ -1,3 +1,4 @@
 cltk
 bs4
 requests
+lxml
